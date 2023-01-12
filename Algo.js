@@ -18,7 +18,7 @@ let lenght = 0;
 let wordCount = 0;
 let vowelCount = 0;
 
-for (let i = 0; i < sentence.length; i++) {uihoijiojij
+for (let i = 0; i < sentence.length; i++) {
     lenght++;
     if(sentence[i] === " ") {
         wordCount++;
