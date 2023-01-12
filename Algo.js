@@ -13,7 +13,7 @@
 // Use three variables as counters.
 
 
-const sentence = "assuming that the words are separated by a single space";
+const sentence = "assuming that the words are separated by a single space"; kingdom
 let lenght = 0;
 let wordCount = 0;
 let vowelCount = 0;
