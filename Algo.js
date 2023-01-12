@@ -13,7 +13,7 @@
 // Use three variables as counters.
 
 
-const sentence = "This is a sentence .";
+const sentence = "assuming that the words are separated by a single space";
 let lenght = 0;
 let wordCount = 0;
 let vowelCount = 0;
@@ -29,6 +29,7 @@ for (let i = 0; i < sentence.length; i++) {
     }
 }
 
-console.log(`The lenght of the sentence is ${lenght}.`);
-console.log(`The lenght of the sentence is ${wordCount + 1}.`);
-console.log(`The lenght of the sentence is ${vowelCount}.`);
+console.log(`The Lenght of the sentence is: ${lenght}.`);
+console.log(`The Number words are: ${wordCount +1}.`);
+console.log(`The Number of the vowels are: ${vowelCount}.`);
+
